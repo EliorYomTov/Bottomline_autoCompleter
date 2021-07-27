@@ -1,0 +1,17 @@
+com\elior\autoCompletedApp\dto\TreeNode.class
+com\elior\autoCompletedApp\exceptions\ExceptionsCatcher.class
+com\elior\autoCompletedApp\entities\Name$NameBuilder.class
+com\elior\autoCompletedApp\exceptions\ErrorDetails$ErrorDetailsBuilder.class
+com\elior\autoCompletedApp\controllers\AutoCompleteController.class
+com\elior\autoCompletedApp\exceptions\ErrorDetails.class
+com\elior\autoCompletedApp\repos\NameRepository.class
+com\elior\autoCompletedApp\AutoCompletedAppApplication.class
+com\elior\autoCompletedApp\dto\PrefixTree.class
+com\elior\autoCompletedApp\utils\InsensitiveConvertor.class
+com\elior\autoCompletedApp\services\AutoCompletedNamesServiceImpl.class
+com\elior\autoCompletedApp\entities\Name.class
+com\elior\autoCompletedApp\services\AutoCompletedNamesService.class
+com\elior\autoCompletedApp\clr\Bootstrap.class
+com\elior\autoCompletedApp\config\WebConfig.class
+com\elior\autoCompletedApp\services\IOService.class
+com\elior\autoCompletedApp\config\SwaggerConfiguration.class
